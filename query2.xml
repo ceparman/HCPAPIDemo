@@ -1,0 +1,8 @@
+<queryRequest>
+<object>
+
+<query> +(customMetadataContent:"meta-Superficia/Invasive..Invasive")
+        +(customMetadataContent:"meta-Primary/Relapsed..Relapsed")  
+</query>
+</object>
+</queryRequest>
